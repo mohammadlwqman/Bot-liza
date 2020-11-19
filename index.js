@@ -87,4 +87,4 @@ async function playSong(guild, song) {
     dispatcher.setVolumeLogarithmic(serverQueue.volume / 5);
 }
 
-client.login(process.env.TOKEN)
+bot.login(process.env.TOKEN)
