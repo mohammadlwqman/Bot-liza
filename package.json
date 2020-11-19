@@ -1,0 +1,21 @@
+{
+  "name": "liza-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-player": "^3.0.2",
+    "discord.js": "^12.4.1",
+    "merge-options": "^2.0.0",
+    "node-fetch": "^2.6.1",
+    "soundcloud-scraper": "^2.0.0",
+    "spotify-url-info": "^1.4.0",
+    "youtube-sr": "^1.0.7",
+    "ytpl": "^1.0.1"
+  }
+}
