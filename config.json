@@ -1,6 +1,6 @@
 {
-
-   "perfix": "!"
-
-
+    "mongoPath": "mongodb://localhost:27017",
+    "useNewUrlParser": "true",
+    "prefix": "$",
+    "token": "MY SUPER SECRET TOKEN"
 }
