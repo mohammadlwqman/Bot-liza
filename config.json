@@ -1,6 +1,6 @@
 {
 
-  "token": "",
+ bot.login(process.env.TOKEN)
    "perfix": "!"
 
 
