@@ -1,0 +1,7 @@
+2020-11-04T22:11:10.210494+00:00 heroku[worker.1]: Starting process with command `npm start`
+2020-11-04T22:11:10.927608+00:00 heroku[worker.1]: State changed from starting to up
+2020-11-04T22:11:13.224071+00:00 app[worker.1]:
+2020-11-04T22:11:13.224087+00:00 app[worker.1]: > discord-bot@1.0.0 start /app
+2020-11-04T22:11:13.224087+00:00 app[worker.1]: > node index.js
+2020-11-04T22:11:13.224088+00:00 app[worker.1]:
+2020-11-04T22:11:14.157433+00:00 app[worker.1]: ACTIVE!
