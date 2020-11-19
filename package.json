@@ -1,21 +1,33 @@
 {
-  "name": "liza-bot",
+  "name": "discord-bot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" $$ exit 1",
+    "start": "node index.js"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "keywords": [],
+  "author": "Joel",
   "license": "ISC",
   "dependencies": {
-    "discord-player": "^3.0.2",
+    "cheerio": "^1.0.0-rc.3",
     "discord.js": "^12.4.1",
-    "merge-options": "^2.0.0",
-    "node-fetch": "^2.6.1",
-    "soundcloud-scraper": "^2.0.0",
-    "spotify-url-info": "^1.4.0",
-    "youtube-sr": "^1.0.7",
-    "ytpl": "^1.0.1"
+    "discord.js-tictactoe": "^1.0.2",
+    "humanize-duration": "^3.24.0",
+    "mongoose": "^5.10.11",
+    "ms": "^2.1.2",
+    "opusscript": "0.0.7",
+    "request": "^2.88.2",
+    "wokcommands": "^1.0.1",
+    "ytdl-core": "^4.0.0"
+  },
+  "engines": {
+    "node": "14.4.0",
+    "npm": "6.14.5"
   }
 }
