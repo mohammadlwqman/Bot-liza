@@ -87,4 +87,4 @@ async function playSong(guild, song) {
     dispatcher.setVolumeLogarithmic(serverQueue.volume / 5);
 }
 
-client.login("Nzc4NjUzMjA2Mzk3NzE0NDUy.X7VHTw.D4F2vjRYdlKBoHPOnrfA5OxUO1U")
+client.login()
